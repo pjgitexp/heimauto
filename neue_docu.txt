@@ -10,4 +10,6 @@ online via m12 und passkey 10:14 27.07.2024
 online via m12 und passkey 22:00 02.03.2025
 online via m15 und passkey 21:43 01.06.2025
 geclont und hier paralle zu r13 auf r5 Zeile dazu 12:31
+erst add fuer das staging dann commit
+
 
